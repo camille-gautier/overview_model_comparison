@@ -69,7 +69,6 @@ fuse_path=""
 
 #Observed streamflow 
 Observed="0_data/Example_2/Observed/07OB001_DISCHARGE.csv"
-#obs="/Users/camillegautier/Documents/Hay_river/new_discretization/DISCHARGE_DATA.csv"
 
 #spatial discretisation to consider: "lumped", "subbasin"
 #     - SUMMA: "lumped" or "subbasin"
