@@ -69,7 +69,6 @@ fuse_path="0_data/Example_1/FUSE/output/CAN_01DG003_84_runs_best.nc"
 
 #Observed streamflow 
 Observed="0_data/Example_1/Observed/obs_flow.CAN_01DG003.cfs.csv"
-#obs="/Users/camillegautier/Documents/Hay_river/new_discretization/DISCHARGE_DATA.csv"
 
 #spatial discretisation to consider: "lumped", "subbasin"
 #     - SUMMA: "lumped" or "subbasin"
